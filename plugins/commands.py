@@ -166,7 +166,7 @@ async def start(client, message):
                                 InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/LXkumar")
                             ],
                             [
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -187,7 +187,7 @@ async def start(client, message):
                        ],[
                           InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/LXkumar")
                          ],[ 
-                            InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                            InlineKeyboardButton('🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -273,7 +273,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('⁉️🔰🇭 𝗼𝘄  𝗧𝗼 𝗢𝗽𝗲𝗻 𝗟𝗶𝗻𝗸✅⁉️', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -294,7 +294,7 @@ async def start(client, message):
                     [
                         InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                     ], [
-                        InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
+                        InlineKeyboardButton('⁉️🔰🇭 𝗼𝘄  𝗧𝗼 𝗢𝗽𝗲𝗻 𝗟𝗶𝗻𝗸✅⁉️', url=await get_tutorial(chat_id))
                     ]
                 ]
             )
@@ -347,7 +347,7 @@ async def start(client, message):
                       InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/LXkumar")
                      ],
                      [
-                        InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                        InlineKeyboardButton('🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
 
                      ]
                     ]
@@ -377,7 +377,7 @@ async def start(client, message):
                         [
                             InlineKeyboardButton('📂 Dᴏᴡɴʟᴏᴀᴅ Nᴏᴡ 📂', url=g)
                         ], [
-                            InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
+                            InlineKeyboardButton('⁉️🔰🇭 𝗼𝘄  𝗧𝗼 𝗢𝗽𝗲𝗻 𝗟𝗶𝗻𝗸✅⁉️', url=await get_tutorial(chat_id))
                         ]
                     ]
                 )
@@ -413,7 +413,7 @@ async def start(client, message):
                       InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/LXkumar")
                      ],
                      [
-                        InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+                        InlineKeyboardButton('🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                      ]
                     ]
                 )
@@ -476,7 +476,7 @@ async def start(client, message):
               InlineKeyboardButton("𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥", url="t.me/LXkumar")
              ],
              [
-              InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
