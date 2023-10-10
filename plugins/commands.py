@@ -337,7 +337,7 @@ async def start(client, message):
             )
             filesarr.append(msg)
         k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>\n\nयह movie 30 sec में हटा दिया जाएगा \n इस movie को देखने के लिए जल्द से जल्द 🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅ पर क्लिक करके लिंक को save कर ले \n Thank you❣️\n</u></b>")
-        await asyncio.sleep(60)
+        await asyncio.sleep(30)
         for x in filesarr:
             await x.delete()
         await k.edit_text("<b>Your All Files/Videos is successfully deleted!!!</b>")
@@ -455,7 +455,7 @@ async def start(client, message):
         InlineKeyboardButton("Get File Again", callback_data=f'delfile#{file_id}')
     ]]
     k = await msg.reply("<b><u>\n\nयह movie 30 sec में हटा दिया जाएगा \n इस movie को देखने के लिए जल्द से जल्द 🧲𝗚𝗲𝗻𝗮𝗿𝗮𝘁𝗲 𝗗𝗶𝗿𝗲𝗰𝘁 𝗟𝗶𝗻𝗸✅ पर क्लिक करके लिंक को save कर ले \n Thank you❣️\n</u></b>",quote=True)
-    await asyncio.sleep(600)
+    await asyncio.sleep(30)
     await msg.delete()
     await k.edit_text("<b>Your File/Video is successfully deleted!!!\n\nClick below button to get your deleted file 👇</b>",reply_markup=InlineKeyboardMarkup(btn))
     return   
